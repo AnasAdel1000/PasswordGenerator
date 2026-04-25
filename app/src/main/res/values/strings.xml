@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="welcome">Welcome </string>
+    <string name="about">About</string>
+    <string name="Generate">Generate</string>
+    <string name="credits">made by Anasdev</string>
+    <string name="app_description">This app is a simple password Generator that is offline and secure. This app doesn\'t use any tracking methods or any viruses.</string>
+    <string name="dev_description">"I'm an Android Developer dedicated to building clean, secure, and user-friendly mobile experiences."</string>
+</resources>
